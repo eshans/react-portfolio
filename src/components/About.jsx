@@ -6,7 +6,7 @@ const About = () => {
 			<div className="flex flex-col justify-center items-center w-full h-full">
 				<div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
 					<div className="sm:text-right pb-8 pl-4">
-						<p className="text-4xl font-bold inline border-b-4 border-pink-600">
+						<p className="text-4xl font-bold inline border-b-4 border-gray-600">
 							About
 						</p>
 					</div>
@@ -15,17 +15,14 @@ const About = () => {
 				<div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
 					<div className="sm:text-right text-4xl font-bold">
 						<p>
-							Hi. I'm Eric Shans. Nclearice to meet you. Please take a look
-							around.
+							Hi. I'm Eric Shans. Nice to meet you. Please take a look around.
 						</p>
 					</div>
 					<div>
 						<p>
-							I am passionate about building excellent software that improves
-							the lives of those around me. I specialize in creating software
-							for clients ranging from individuals and small-businesses all the
-							way to large enterprise corporations. What would you do if you had
-							a software expert available at your fingertips?
+							I am passionate about coding and designing and making electronic
+							music. I create soundscapes and music for a few different projects
+							and
 						</p>
 					</div>
 				</div>
