@@ -26,27 +26,52 @@ const NavBar = () => {
 			{/*Menu*/}
 			<ul className="hidden md:flex">
 				<li>
-					<Link to="home" spy={true} smooth={true} duration={500}>
-						Home
+					<Link
+						to="home"
+						spy={true}
+						smooth={true}
+						duration={500}
+						className="hover:text-blue-500">
+						<span> Home </span>
 					</Link>
 				</li>
 				<li>
-					<Link to="about" spy={true} smooth={true} duration={500}>
+					<Link
+						to="about"
+						spy={true}
+						smooth={true}
+						duration={500}
+						className="hover:text-blue-500">
 						About
 					</Link>
 				</li>
 				<li>
-					<Link to="skills" spy={true} smooth={true} duration={500}>
+					<Link
+						to="skills"
+						spy={true}
+						smooth={true}
+						duration={500}
+						className="hover:text-blue-500">
 						Skills
 					</Link>
 				</li>
 				<li>
-					<Link to="work" spy={true} smooth={true} duration={500}>
+					<Link
+						to="work"
+						spy={true}
+						smooth={true}
+						duration={500}
+						className="hover:text-blue-500">
 						Work
 					</Link>
 				</li>
 				<li>
-					<Link to="contact" spy={true} smooth={true} duration={500}>
+					<Link
+						to="contact"
+						spy={true}
+						smooth={true}
+						duration={500}
+						className="hover:text-blue-500">
 						Contact
 					</Link>
 				</li>

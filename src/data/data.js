@@ -1,17 +1,19 @@
 import WorkIm from "../assets/projects/work.jpeg"
+import work2 from "../assets/projects/wps.png"
+import work3 from "../assets/projects/djes.png"
 
 export const data = [
 	{
 		id: 1,
 		name: "Weiner Pest Services",
-		image: WorkIm,
+		image: work2,
 		github: "https://github.com/eshans/weiner-pest-services",
 		live: "http://www.weinerpestservices.com/"
 	},
 	{
 		id: 2,
-		name: "Eric Shans DJ Site (React & Styled Components",
-		image: WorkIm,
+		name: "DJ Site (React & Styled Components",
+		image: work3,
 		github: "https://github.com/eshans/dj-eric-shans",
 		live: "http://www.djericshans.com"
 	},
