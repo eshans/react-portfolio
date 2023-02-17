@@ -1,6 +1,7 @@
 import WorkIm from "../assets/projects/work.jpeg"
 import work2 from "../assets/projects/wps.png"
 import work3 from "../assets/projects/djes.png"
+import work4 from "../assets/projects/3bridge.png"
 
 export const data = [
 	{
@@ -20,7 +21,7 @@ export const data = [
 	{
 		id: 3,
 		name: "3Bridge Records (React, Styled Components)",
-		image: WorkIm,
+		image: work4,
 		github: "https://github.com/eshans/3bridgerecords",
 		live: "https://3bridgerecords.netlify.app/"
 	},

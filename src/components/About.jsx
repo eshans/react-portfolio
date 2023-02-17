@@ -20,9 +20,8 @@ const About = () => {
 					</div>
 					<div>
 						<p>
-							I am passionate about coding and designing and making electronic
-							music. I create soundscapes and music for a few different projects
-							and
+							I am passionate about coding, designing, and making electronic
+							music.
 						</p>
 					</div>
 				</div>
