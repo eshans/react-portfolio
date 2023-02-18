@@ -10,18 +10,21 @@ const About = () => {
 							About
 						</p>
 					</div>
-					<div></div>
+					<div>
+						I believe learning and growing should be part of your daily routine.
+						Teaching myself new technlogies, finding new people to create and
+						colloborate with, and just living life with a humorous touch are the
+						keys to happiness.
+					</div>
 				</div>
 				<div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
 					<div className="sm:text-right text-4xl font-bold">
-						<p>
-							Hi. I'm Eric Shans. Nice to meet you. Please take a look around.
-						</p>
+						<p>Nice to meet you. Please take a look around.</p>
 					</div>
 					<div>
 						<p>
 							I am passionate about coding, designing, and making electronic
-							music.
+							music as well as TV and film :)
 						</p>
 					</div>
 				</div>

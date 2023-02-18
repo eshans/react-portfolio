@@ -6,6 +6,7 @@ import ReactImg from "../assets/react.png"
 import Styled_Components from "../assets/styled_components.png"
 import GitHub from "../assets/github.png"
 import Tailwind from "../assets/tailwind.png"
+import MaterialUI from "../assets/material.png"
 
 const Skills = () => {
 	return (
@@ -56,8 +57,12 @@ const Skills = () => {
 						<p className="my-4"> CSS </p>
 					</div>
 					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-						<img className="w-20 mx-auto" src={HTML} alt="HTML Icon" />
-						<p className="my-4"> HTML </p>
+						<img
+							className="w-20 mx-auto"
+							src={MaterialUI}
+							alt="Material UI Icon"
+						/>
+						<p className="my-4"> MaterialUI </p>
 					</div>
 				</div>
 			</div>
