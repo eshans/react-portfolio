@@ -12,9 +12,8 @@ const About = () => {
 					</div>
 					<div>
 						I believe learning and growing should be part of your daily routine.
-						Teaching myself new technlogies, finding new people to create and
-						colloborate with, and just living life with a humorous touch are the
-						keys to happiness.
+						Teaching myself new technologies, finding new people to create and
+						collaborate with, and just living life with a humorous touch.
 					</div>
 				</div>
 				<div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
